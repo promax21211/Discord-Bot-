@@ -1,0 +1,6 @@
+discord.py>=2.3.2,<2.4
+python-dotenv
+pillow>=10.0.0
+numpy>=1.26.0
+rembg>=2.0.57
+onnxruntime>=1.19.0
